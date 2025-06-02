@@ -1,5 +1,3 @@
-Under Construction.... mind the dust
-
 <h1>Hi, I'm Gabe! <br/><a href="https://github.com/gabriel-emanuel">Applied Artificial Intelligence Graduate</a>, <a href="https://www.linkedin.com/in/gabriel-colon/">
 
 <h2>👨‍💻 AI & Machine Learning Projects:</h2>
